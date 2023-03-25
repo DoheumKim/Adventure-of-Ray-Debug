@@ -1,5 +1,9 @@
 # Adventure-of-Ray-Debug
-Project2,Game, Cooperated with Eunseop
-This is my Second Project and motivated from Crossy Road, mobile game.
-It's not be complitied and cooperated with Eunseop.
-You need sime files like icon,car images etc.
+Cooperated with Eunseop
+
+This is my Second Project and motivated from Crossy Road, a mobile game.
+
+Currently, only Korean is supported.
+It is difficult to translate it to English because Eunseop and I are not good at English.
+Please keep that in mind.
+Thanks.
